@@ -30,7 +30,7 @@ Beric returns to base, wounded and haggard. "It's as we thought. They're coming.
 	- Evacuate civilians to boats
 	- Cut down trees to create fortifications against enemy formations
 	- Bloodmark mercenaries appear in the welcomed civilian refugees, assassinating targets and wreaking havoc
-- [[General Odrin Lesh]] is in charge of tactics, letting the fanatical mercenary faction take the most casualties, rides in with cavalry charge
+- [[General Odrin Lesh]] is in charge of tactics, rides safely in behind the cavalry charge
 - The party's escape boat is nearly intercepted by the [[Silent Oath]], triggering a desperate shift into [[Shadesmar]].
 
 ## Attackers
