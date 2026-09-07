@@ -22,7 +22,7 @@ The honorspren react with visible horror, their glowing blue forms flickering wi
 
 - **Captain Notum:** "Stop! By the Stormfather, do not speak another word of your First Ideal. We still hear the silence that followed those words a thousand years ago."
 - **Officer Sylas:** "You are the children of the traitors. You hold the broken souls of our kin in your hands and call it a 'bond'. It is a parasite, nothing more!"
-- **Captain Notum:** "We were coming to mend your sails, but why would we sharpen the knife that is meant for our own throats? To help you is to invite the return of the slaughter. The [[Day of Recreance]] was not a mistake; it was a mercy. Why would you bring the madness back to the sky?"
+- **Captain Notum:** "We were coming to mend your sails, but why would we sharpen the knife that is meant for our own throats? To help you is to invite the return of a slaughter like the [[Day of Recreance]]. Why would you force them to return this madness?"
 
 # The Trial
 The party must convince the honorspren that this era is different. They must prove that their spren are not captives but willing partners in the fight against the [[Bloodmarks]] and the coming [[Everstorm]].
