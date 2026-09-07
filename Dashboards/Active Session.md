@@ -60,28 +60,21 @@
 		- [[Deepen Light]] (hidden as River Rider) smugglers returns with Varo and flanks with hidden ballistae
 	- Plans for Truthkeepers
 		- They still think it's fabrials, starting to doubt, [[High Enforcer Aylen]] isn't suspicious but [[Istrum]] is interested and will protect [[Ojog]] due to Fortune
-		- [[Adjudicator Peton]] is dead so they're in disarray; Silent Oath will come late
+		- [[Adjudicator Peton]] and the other militant Adjudicators are dead, and the [[Truthkeepers]] have crumbled without their leadership; Silent Oath will come late
 		- Traps for Shardbearers; cutting hole in the gate since cave walls are too thick
 	- Plans for the Silent Oath
 		- Escape route
-- Nalan send us aid
-	- Silent Oath arrives, 20 Shardblades
 - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
 	- Lightship Expo
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
-- City Missions
-	- Make money
-		- Selling darkstone, labor intensive to fell the trees to harvest the darkwood trees inside through merchant contact Breelie
-	- Smear Campaign
-		- Revealing the red armband Vamah guards, collaboration with the Bloodmarks and Truthkeepers
-	- Targeting supplies
-		- Stealing from the Shield Ring and warehouses in the [[Revolar]] districts (Granary 7, Armory 9, Concord of Steel mercenary group)
-	- Finding Chip
-		- Ask Truthkeepers, he's been giving information on the [[Knights of Dusk]], keeping things stable is important for business, don't upset the status quo, good time to leave now
-- [[Chip]] and [[Sweeper]] help direct the party (under hidden direction from [[Hoid]])
-- [[Vorn]] [[Hoid]] and [[Varo Three-Knives]] on the Deepen Light.
+- [[Hoid]] in the base
 	- [[The Mink and the Axehounds]]
+- Nalan send us aid
+	- Silent Oath arrives, 20 Shardblades
+	- [[Ojog]] injured in the fighting, drops the Shardblade
+	- [[High Enforcer Aylen]] demands surrender of [[General Spade]] and [[Khria]], they ask the party to take care of the refugees. "We only want to eliminate the Possessed threat, the spat with the Vamah Princedom concerns us not."
+- [[Vorn]] and [[Varo Three-Knives]] on the Deepen Light, turned back early with the assault. [[Varo Three-Knives]] received orders from [[Arbiter Rissa Vale]] via spanreed. [[Gath]] can read basic glyphs.
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
 		- [[Gath]]

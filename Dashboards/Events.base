@@ -7,6 +7,10 @@ views:
     order:
       - file.name
       - status
+      - fc-date
+      - fc-category
     sort:
       - property: status
         direction: ASC
+      - property: fc-date
+        direction: DESC
